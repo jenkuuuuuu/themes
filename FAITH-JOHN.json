@@ -12,6 +12,9 @@
     "alpha":  1
   },
   "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#050505"
+    ],
     "BACKGROUND_SECONDARY": [
       "#050505"
     ],
@@ -49,6 +52,9 @@
       "#000000"
     ],
     "SECONDARY_FOCUSED_BACKGROUND": [
+      "#000000"
+    ],
+    "BG_BASE_PRIMARY": [
       "#000000"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
@@ -95,6 +101,7 @@
     ]
   },
   "rawColors": {
+    "PLUM_20": "#000000",
     "BRAND_360": "#01227c",
     "PRIMARY_300": "#ff0000"
   },
