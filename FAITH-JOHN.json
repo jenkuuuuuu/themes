@@ -54,9 +54,6 @@
     "SECONDARY_FOCUSED_BACKGROUND": [
       "#000000"
     ],
-    "BG_BASE_PRIMARY": [
-      "#000000"
-    ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#01227c"
     ],
@@ -101,7 +98,6 @@
     ]
   },
   "rawColors": {
-    "PLUM_20": "#000000",
     "BRAND_360": "#01227c",
     "PRIMARY_300": "#ff0000"
   },
