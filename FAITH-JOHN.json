@@ -22,7 +22,7 @@
       "#000000"
     ],
     "BACKGROUND_TERTIARY": [
-      "#ffffff"
+      "#000000"
     ],
     "TEXT_NORMAL": [
       "#ffffff"
@@ -49,11 +49,11 @@
       "#000000"
     ],
     "PRIMARY_FOCUSED_BACKGROUND": [
-      "#ffffff"
+      "#000000"
     ],
     "SECONDARY_FOCUSED_BACKGROUND": [
       "#000000"
-    ],
+    ]
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#01227c"
     ],
@@ -95,9 +95,13 @@
     ],
     "EMBED_BACKGROUND": [
       "#050505"
+    ],
+    "CHAT_BACKGROUND": [
+      "#000000"
     ]
   },
   "rawColors": {
+    "PLUM_20": "#000000",
     "BRAND_360": "#01227c",
     "PRIMARY_300": "#ff0000"
   },
