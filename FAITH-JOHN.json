@@ -8,13 +8,10 @@
     }
   ],
   "background": {
-    "url": "https://lambda.jenku.xyz/u/rzQXxv.png",
-    "alpha":  1
+    "url": "https://lambda.jenku.xyz/r/rzQXxv.png",
+    "alpha":  1.0
   },
   "semanticColors": {
-    "BACKGROUND_PRIMARY": [
-      "#050505"
-    ],
     "BACKGROUND_SECONDARY": [
       "#050505"
     ],
