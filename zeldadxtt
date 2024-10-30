@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "zelda dx tt",
+    "previewText": "kid named link",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "ggsans-Bold": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "ggsans-BoldItalic": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "ggsans-ExtraBold": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "ggsans-Medium": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "ggsans-MediumItalic": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "ggsans-Normal": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "ggsans-NormalItalic": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "ggsans-Semibold": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "NotoSans-Bold": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "NotoSans-ExtraBold": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "NotoSans-Medium": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "NotoSans-Normal": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "NotoSans-NormalItalic": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "NotoSans-Semibold": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf",
+        "SourceCodePro-Semibold": "https://github.com/jenkuuuuuu/themes/raw/refs/heads/main/zeldadxt.ttf"
+    }
+}
