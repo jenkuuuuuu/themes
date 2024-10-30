@@ -98,6 +98,9 @@
     ],
     "EMBED_BACKGROUND": [
       "#050505"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT":[
+      "#ffffff"
     ]
   },
   "rawColors": {
