@@ -1,0 +1,117 @@
+{
+    "name": "luig",
+    "description": "kid named luigi",
+    "authors": [
+        {
+            "name": "jenku",
+            "id": "323205750262595595"
+        }
+    ],
+    "semanticColors": {
+        "EMBED_BACKGROUND": [
+            "#233633"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#233633"
+        ],
+        "REDESIGN_CHANNEL_NAME_TEXT": [
+            "#e4e5e7"
+        ],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+            "#9597a3"
+        ],
+        "PANEL_BG": [
+            "#122220"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#3e5955"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#233633"
+        ],
+        "BG-BRAND": [
+            "#5865f2"
+        ],
+        "CHANNEL_ICON": [
+            "#233633"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#233633"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#233633"
+        ],
+        "TEXT_SECONDARY": [
+            "#7c7e8a"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#28403c"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#233633"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#65ba59"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#132522"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#132522"
+        ],
+        "CARD_PRIMARY_BACKGROUND": [
+            "#132522"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#0c1d1b"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#081210"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#142121"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#1c1d22"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#788280"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#d0e0e4"
+        ],
+        "TEXT_MUTED": [
+            "#7c8a85"
+        ],
+        "TEXT_PRIMARY": [
+            "#c6ccc8"
+        ],
+        "TEXT_NORMAL": [
+            "#e3e8e4"
+        ],
+        "SECONDARY_FOCUSED_BACKGROUND": [
+            "#233633"
+        ],
+        "PRIMARY_FOCUSED_BACKGROUND": [
+            "#233633"
+        ],
+        "SELECTION_PICKER_BG": [
+            "#233633"
+        ],
+        "EXPRESSION_PICKER_BG": [
+            "#233633"
+        ],
+        "BG_BACKDROP": [
+            "#000000b2"
+        ]
+    },
+    "rawColors": {
+        "PLUM_20": "#233633",
+        "PRIMARY_600": "#233633"
+    },
+    "spec": 2,
+    "background": {
+        "blur": 0,
+        "url": "https://github.com/jenkuuuuuu/themes/blob/41ffe0e32f9ff35db0d26035e01df20f84cadc07/luigibg.png"
+    }
+}
