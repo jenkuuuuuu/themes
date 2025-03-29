@@ -1,6 +1,6 @@
 {
   "name": "Custom Theme",
-  "id": "jenksite.Custom Theme",
+  "id": "jenksite.customtheme",
   "type": "theme",
   "main": "bundle.json",
   "description": "Made with theme.jenku.xyz",
