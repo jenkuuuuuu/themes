@@ -1,0 +1,14 @@
+{
+  "name": "Custom Theme",
+  "id": "jenksite.Custom Theme",
+  "type": "theme",
+  "main": "bundle.json",
+  "description": "Made with theme.jenku.xyz",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "None inputted",
+      "id": "None inputted"
+    }
+  ]
+}
